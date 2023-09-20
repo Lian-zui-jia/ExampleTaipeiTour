@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyToolbarTheme" parent="Widget.AppCompat.Toolbar">
+    <!-- 设置返回箭头颜色 -->
+    <item name="android:colorControlNormal">@color/white</item>
+    <item name="android:colorControlHighlight">@color/white</item>
+</style></resources>

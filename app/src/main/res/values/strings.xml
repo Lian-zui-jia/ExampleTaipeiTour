@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">臺北旅遊資訊Demo</string>
+    <string name="app_name_cn">台北旅游信息Demo</string>
+    <string name="app_name_en">Taipei Travel Information Demo</string>
+    <string name="app_name_ja">台北観光情報デモ</string>
+    <string name="app_name_ko">타이페이 관광 정보 데모</string>
+    <string name="app_name_es">Demo de Información Turística de Taipéi</string>
+    <string name="app_name_id">Demo Informasi Wisata Taipei</string>
+    <string name="app_name_th">โปรแกรมสาธารณะข้อมูลการท่องเที่ยวไทเป</string>
+    <string name="app_name_vi">Chương trình Thông tin Du lịch Đài Bắc</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

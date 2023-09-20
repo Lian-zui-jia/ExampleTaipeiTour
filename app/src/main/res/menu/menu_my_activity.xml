@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/lang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/lang"
+        app:showAsAction="always"
+        android:title="language" />
+
+    <item
+        android:id="@+id/go_back"
+        android:icon="?attr/homeAsUpIndicator"
+        android:orderInCategory="100"
+        android:title="返回上一頁"
+        app:showAsAction="always" />
+
+</menu>
